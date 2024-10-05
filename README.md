@@ -92,7 +92,7 @@ The purpose of this project is to validate my hands-on skills in the **Monitor a
 
 #### f) Azure Backup
 - Created a **Recovery Services Vault** named **InsightScape-Vault**.
-- Configured **Azure Backup** for **InsightScape-VM1** and validated the recovery by successfully restoring the VM.
+- Configured **Azure Backup** for **InsightScape-VM1**.
 
 
 ![Azure Backup (RSV) (v)](https://github.com/user-attachments/assets/a32e9ec2-bbad-4369-bf0f-0ad1a83bb97f)
