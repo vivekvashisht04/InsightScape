@@ -222,7 +222,7 @@ The **InsightScape** project successfully demonstrated the integration of monito
   - Created proactive alerts for real-time resource monitoring and response.
 
 ## Repository Contents
-- **Manual**: A comprehensive manual detailing each phase of the project, including step-by-step configurations, troubleshooting tips, and best practices.
+- **Manual**: A comprehensive manual detailing each phase of the project, including step-by-step configurations, monitoring tips, and best practices.
 - **Screenshots**: Visual documentation of key stages and configurations throughout the project, stored in the `Screenshots` folder.
 - **Source Code**: Contains scripts and commands used in the project, organized in the `Source_Code` folder.
 
